@@ -1,0 +1,36 @@
+.CurrentVideo{
+	position: static;
+	top:45%;
+	width:60%;
+	border:5px;
+	padding:5px 5px 5px 5px;
+	left:0;
+	overflow: auto;
+}
+#toMedStat{
+	position: static;
+	text-align: center;
+}
+.vidPlaylist{
+	position:absolute;
+	clear:both;
+	display:inline-block;
+	left:60%;
+	top:10%;
+	width:35%;
+	border:5px;
+	overflow: auto;
+}
+
+.previousComments{
+	position: static;
+	top:45%;
+	width:40%;
+	border:5px;
+	overflow: auto;
+}
+.comment{
+	position:static;
+	border:2px;
+	overflow: auto;
+}
